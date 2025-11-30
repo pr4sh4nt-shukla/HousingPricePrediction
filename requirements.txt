@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+Run the notebook:
+jupyter notebook Housing_big_data_GitHub_Ready.ipynb
