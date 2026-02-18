@@ -1,6 +1,6 @@
 #🏠 Housing Price Prediction Project
 
-A machine learning project that analyzes the Ames Housing dataset and builds predictive models to estimate house prices based on various features.
+A machine learning project that analyzes the **Ames Housing dataset** and builds predictive models to estimate house prices based on various features.
 
 ## 📊 Project Overview
 
